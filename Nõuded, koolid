@@ -1,0 +1,49 @@
+1. Koolid 
+
+Koolide tabel (nimi, asukoht) 
+
+2. Rühmad 
+
+Iga rühm kuulub ühele koolile 
+
+Rühmadel on nimi (10A, 11B jne) 
+
+3. Õpilased 
+
+Iga õpilane kuulub ühele rühmale 
+
+Eesnimi, perenimi, isikukood,tund 
+
+4. Õpetajad 
+
+Iga õpetaja kuulub ühele kooli 
+
+Eesnimi, perenimi, isikukood, ametikoht 
+
+Mitme kontaktiga → eraldi kontaktide tabel 
+
+5. Tunnid 
+
+Iga tund seotakse õpetaja + rühmaga 
+
+Aine, kuupäev, algus, lõpp, ruum 
+
+6. Hinded 
+
+Hinne seotud õpilase ja konkreetse tunniga 
+
+Hinne vahemikus 1–5 
+
+Võib olla kommentaar 
+
+7. Ruumid (klassid) 
+
+Ruumide info (ruumi number, kirjeldus) 
+
+8. Rollid ja kasutajakontod 
+
+Adminid, õpetajad, õpilased 
+
+Rollide loomine ja õiguste andmine (GRANT) 
+
+ 
